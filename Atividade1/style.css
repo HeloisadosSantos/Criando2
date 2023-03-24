@@ -1,0 +1,28 @@
+body{
+  background-color: aliceblue;
+  margin-top: 0;
+}
+.p{
+  text-align: center;
+}
+.img1{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.img2{
+  position: absolute;
+  top: 0;
+  right:0;
+}
+.img3{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.img4{
+position: absolute;
+bottom: 0;
+right: 0;
+}
